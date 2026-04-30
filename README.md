@@ -70,11 +70,11 @@ Este projeto foi desenvolvido com fins educacionais para praticar:
 * Funções
 * Entrada de dados
 * Uso de bibliotecas externas
-* Organização de código
+* Organização de código.
 
 ---
 
 ## 👩‍💻 Autora
 
 **Damaris Cristina**
-Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento de Sistemas. Curso técnico DS.
+Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento de Sistemas data 30/04. Curso técnico em DS.
