@@ -41,13 +41,13 @@ A proposta é informar a quantidade de litros presente no reservatório e, com b
 
 Clone o repositório:
 
-```bash id="4itmyv"
-git clone https://github.com/seuusuario/seurepositorio.git
+```bash
+git clone https://github.com/DamarisCristina/Reservat-rio-de--gua
 ```
 
 Instale a dependência:
 
-```bash id="1f3jj0"
+```bash
 pip install colorama
 ```
 
@@ -55,8 +55,8 @@ pip install colorama
 
 ## ▶️ Como Executar
 
-```bash id="f2fb8e"
-python nome_do_arquivo.py
+```bash
+python Atividade.py
 ```
 
 ---
