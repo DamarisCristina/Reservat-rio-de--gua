@@ -77,4 +77,4 @@ Este projeto foi desenvolvido com fins educacionais para praticar:
 ## 👩‍💻 Autora
 
 **Damaris Cristina**
-Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento de Sistemas.
+Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento de Sistemas. Cursso técnico DS.
